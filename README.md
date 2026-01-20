@@ -1,6 +1,8 @@
 # SF Muni Transit Reliability Analysis  
 **SF Muni Transit Recovery & Resource Reallocation (Post-COVID)**
 
+> A system-level transit reliability analysis focusing on post-COVID demand recovery and resource reallocation decisions for San Francisco Muni.
+
 📍 **City:** San Francisco  
 🚌 **System:** San Francisco Municipal Transportation Agency (Muni)  
 📅 **Period:** 2011–2025  
